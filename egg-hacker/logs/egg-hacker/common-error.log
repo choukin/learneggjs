@@ -1,0 +1,17 @@
+2019-12-04 10:37:12,730 ERROR 7164 [-/127.0.0.1/-/21ms GET /news] nodejs.Template render error: (/work/coding/learn/egg-hacker/app/view/news/list.tpl) [Line 12, Column 15]
+  unknown block tag: end
+  unknown block tag: end
+    at Object._prettifyError (/work/coding/learn/egg-hacker/node_modules/nunjucks/src/lib.js:36:11)
+    at Template.render (/work/coding/learn/egg-hacker/node_modules/nunjucks/src/environment.js:542:21)
+    at /work/coding/learn/egg-hacker/node_modules/nunjucks/src/environment.js:366:27
+    at createTemplate (/work/coding/learn/egg-hacker/node_modules/nunjucks/src/environment.js:315:9)
+    at handle (/work/coding/learn/egg-hacker/node_modules/nunjucks/src/environment.js:327:11)
+    at /work/coding/learn/egg-hacker/node_modules/nunjucks/src/environment.js:339:9
+    at next (/work/coding/learn/egg-hacker/node_modules/nunjucks/src/lib.js:280:7)
+    at Object.asyncIter (/work/coding/learn/egg-hacker/node_modules/nunjucks/src/lib.js:286:3)
+    at NunjucksEnvironment.getTemplate (/work/coding/learn/egg-hacker/node_modules/nunjucks/src/environment.js:321:9)
+    at NunjucksEnvironment.render (/work/coding/learn/egg-hacker/node_modules/nunjucks/src/environment.js:360:10)
+name: "Template render error"
+pid: 7164
+hostname: localhost
+

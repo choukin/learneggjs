@@ -1,0 +1,274 @@
+{
+  "keys": "/work/coding/learn/egg-hacker/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/work/coding/learn/egg-hacker/config/config.default.js",
+    "mapping": {
+      ".tpl": "/work/coding/learn/egg-hacker/config/config.default.js"
+    },
+    "root": "/work/coding/learn/egg-hacker/node_modules/egg-view/config/config.default.js",
+    "cache": "/work/coding/learn/egg-hacker/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/work/coding/learn/egg-hacker/node_modules/egg-view/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/work/coding/learn/egg-hacker/node_modules/egg-session/config/config.default.js",
+    "key": "/work/coding/learn/egg-hacker/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/work/coding/learn/egg-hacker/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/work/coding/learn/egg-hacker/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "type": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "useSession": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "headerName": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "queryName": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "value": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "value": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "value": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "policy": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/work/coding/learn/egg-hacker/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/work/coding/learn/egg-hacker/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/work/coding/learn/egg-hacker/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/work/coding/learn/egg-hacker/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/work/coding/learn/egg-hacker/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/work/coding/learn/egg-hacker/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/work/coding/learn/egg-hacker/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/work/coding/learn/egg-hacker/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/work/coding/learn/egg-hacker/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/work/coding/learn/egg-hacker/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/work/coding/learn/egg-hacker/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/work/coding/learn/egg-hacker/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/work/coding/learn/egg-hacker/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/work/coding/learn/egg-hacker/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/work/coding/learn/egg-hacker/node_modules/egg-watcher/config/config.default.js",
+      "development": "/work/coding/learn/egg-hacker/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/work/coding/learn/egg-hacker/node_modules/egg-schedule/config/config.default.js",
+      "file": "/work/coding/learn/egg-hacker/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/work/coding/learn/egg-hacker/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/work/coding/learn/egg-hacker/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/work/coding/learn/egg-hacker/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/work/coding/learn/egg-hacker/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/work/coding/learn/egg-hacker/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/work/coding/learn/egg-hacker/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/work/coding/learn/egg-hacker/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/work/coding/learn/egg-hacker/node_modules/egg-multipart/config/config.default.js",
+    "files": "/work/coding/learn/egg-hacker/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/work/coding/learn/egg-hacker/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/work/coding/learn/egg-hacker/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/work/coding/learn/egg-hacker/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/work/coding/learn/egg-hacker/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/work/coding/learn/egg-hacker/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/work/coding/learn/egg-hacker/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/work/coding/learn/egg-hacker/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/work/coding/learn/egg-hacker/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/work/coding/learn/egg-hacker/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/work/coding/learn/egg-hacker/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/work/coding/learn/egg-hacker/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/work/coding/learn/egg-hacker/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/work/coding/learn/egg-hacker/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/work/coding/learn/egg-hacker/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/work/coding/learn/egg-hacker/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/work/coding/learn/egg-hacker/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/work/coding/learn/egg-hacker/node_modules/egg-static/config/config.default.js",
+    "dir": "/work/coding/learn/egg-hacker/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/work/coding/learn/egg-hacker/node_modules/egg-static/config/config.default.js",
+    "preload": "/work/coding/learn/egg-hacker/node_modules/egg-static/config/config.default.js",
+    "buffer": "/work/coding/learn/egg-hacker/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/work/coding/learn/egg-hacker/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/work/coding/learn/egg-hacker/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/work/coding/learn/egg-hacker/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/work/coding/learn/egg-hacker/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/work/coding/learn/egg-hacker/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/work/coding/learn/egg-hacker/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+  "name": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+  "proxy": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "version": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "description": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "main": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+      "test": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+    },
+    "keywords": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "author": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "license": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+  "HOME": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+  "rundir": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "notFound": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "sitefile": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "middlewares": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "httpClient": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "encoding": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "formLimit": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "textLimit": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "strict": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+      "depth": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "encoding": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "env": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "level": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "outputJSON": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "buffer": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "appLogName": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "coreLogName": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "agentLogName": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "errorLogName": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+      "maxSockets": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+      "maxSockets": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "logging": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+      "port": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+      "hostname": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/work/coding/learn/egg-hacker/node_modules/egg/config/config.default.js"
+}
